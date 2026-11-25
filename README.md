@@ -43,5 +43,5 @@ O cálculo segue a fórmula padrão IMC = peso/ altura **2 e utiliza as faixas d
 ├── .gitignore           # Arquivos e diretórios ignorados pelo Git
 └── README.md            # Documentação do projeto
 ```
-###👨‍💻 Autor
+👨‍💻 Autor
 Desenvolvido por Pedro Amaral — Estudante de Engenharia de Software.
